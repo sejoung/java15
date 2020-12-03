@@ -1,12 +1,24 @@
-io/github/sejoung/sealed/Shape.java
- io.github.sejoung.sealed.Shape
-io/github/sejoung/sealed/Circle.java
- io.github.sejoung.sealed.Circle
-io/github/sejoung/sealed/TestSquare.java
- io.github.sejoung.sealed.TestSquare
-io/github/sejoung/sealed/Rectangle.java
- io.github.sejoung.sealed.Rectangle
-io/github/sejoung/sealed/Square.java
- io.github.sejoung.sealed.Square
-io/github/sejoung/sealed/FilledRectangle.java
- io.github.sejoung.sealed.FilledRectangle
+io/github/sejoung/sealed/ex01/Vehicle.java
+ io.github.sejoung.sealed.ex01.Vehicle
+io/github/sejoung/sealed/ex02/FilledRectangle.java
+ io.github.sejoung.sealed.ex02.FilledRectangle
+io/github/sejoung/sealed/ex02/Circle.java
+ io.github.sejoung.sealed.ex02.Circle
+io/github/sejoung/sealed/ex02/Square.java
+ io.github.sejoung.sealed.ex02.Square
+io/github/sejoung/sealed/ex01/Truck.java
+ io.github.sejoung.sealed.ex01.Truck
+io/github/sejoung/sealed/ex01/Service.java
+ io.github.sejoung.sealed.ex01.Service
+io/github/sejoung/sealed/ex01/Car.java
+ io.github.sejoung.sealed.ex01.Car
+io/github/sejoung/sealed/ex02/Rectangle.java
+ io.github.sejoung.sealed.ex02.Rectangle
+io/github/sejoung/sealed/ex02/Shape.java
+ io.github.sejoung.sealed.ex02.Shape
+io/github/sejoung/sealed/ex03/Truck.java
+ io.github.sejoung.sealed.ex03.Truck
+io/github/sejoung/sealed/ex03/Car.java
+ io.github.sejoung.sealed.ex03.Car
+io/github/sejoung/sealed/ex03/Vehicle.java
+ io.github.sejoung.sealed.ex03.Vehicle

@@ -1,2 +1,8 @@
-io/github/sejoung/sealed/TestSquareTest.java
- io.github.sejoung.sealed.TestSquareTest
+io/github/sejoung/sealed/ex02/TestSquareTest.java
+ io.github.sejoung.sealed.ex02.TestSquareTest
+io/github/sejoung/sealed/ex02/TestSquare.java
+ io.github.sejoung.sealed.ex02.TestSquare
+io/github/sejoung/sealed/ex03/VehicleTest.java
+ io.github.sejoung.sealed.ex03.VehicleTest
+io/github/sejoung/sealed/ex01/VehicleTest.java
+ io.github.sejoung.sealed.ex01.VehicleTest

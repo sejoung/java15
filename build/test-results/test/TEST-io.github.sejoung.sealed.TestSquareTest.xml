@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="io.github.sejoung.sealed.TestSquareTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-03T05:43:09" hostname="sanaesdevui-MacBookPro.local" time="0.017">
-  <properties/>
-  <testcase name="newTest()" classname="io.github.sejoung.sealed.TestSquareTest" time="0.017"/>
-  <system-out><![CDATA[1.0
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

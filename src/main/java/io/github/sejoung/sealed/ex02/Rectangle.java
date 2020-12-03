@@ -1,4 +1,4 @@
-package io.github.sejoung.sealed;
+package io.github.sejoung.sealed.ex02;
 
 public sealed class Rectangle extends Shape permits FilledRectangle {
 
