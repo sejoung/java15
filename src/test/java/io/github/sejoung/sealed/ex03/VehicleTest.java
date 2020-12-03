@@ -12,6 +12,8 @@ class VehicleTest {
   void patternMatching() {
     var car = new Car(11, "car");
     var truck = new Truck(2, "truck");
+    System.out.println(car);
+    System.out.println(truck);
     assertEquals(11, vehiclePatternMatching(car));
     assertEquals(2, vehiclePatternMatching(truck));
   }
